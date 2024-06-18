@@ -1,8 +1,10 @@
-**Overview**
+# **Classification of ECG data using non-linear time series analysis**
+
+## **Overview**
 
 This repository contains code and documentation related to my project on analyzing patient ECG (Electrocardiogram) data using advanced machine learning algorithms. The primary focus is on using Support Vector Machines (SVM) and k-Nearest Neighbors (KNN) for classification tasks and deriving insights from the data.
 
-**Project Goals**
+### **Project Goals**
 
 The main objectives of this project are:
 
@@ -11,7 +13,7 @@ Implementing SVM and KNN algorithms to classify ECG signals.
 Calculating the Standard Deviation of NN intervals (SDNN) as a measure of HRV.
 Assessing autonomic nervous system function through variations in time intervals between consecutive heartbeats.
 
-**Key Features**
+### **Key Features**
 
 Data Preprocessing: Includes cleaning, normalization, and feature extraction from ECG signals.
 Machine Learning Models: Implementations of SVM and KNN for classification tasks.
